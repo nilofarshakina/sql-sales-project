@@ -21,14 +21,11 @@ Records: 10 sample orders
 7. High Value Customers (>50000)
 8. Customer Ranking using RANK() window function
 9. Customer Segmentation using CASE WHEN
-10. Revenue Filtered by Region
-11. Orders Per Customer
-12. Average Order Value
-13. Region with Highest Revenue
+10. Orders Per Customer
+11. Average Order Value
+12. Region with Highest Revenue
 
 ## Concepts Covered
 SUM, COUNT, AVG, GROUP BY, ORDER BY, WHERE, HAVING, LIMIT, CASE WHEN, RANK() OVER(), Date Functions
-
-Open DB Browser for SQLite or any SQL editor and execute the sales_project.sql file.
 
 Author: Aspiring MIS Executive / Data Analyst
