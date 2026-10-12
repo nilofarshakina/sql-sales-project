@@ -10,7 +10,7 @@ Table Name: sales
 Columns: order_id, order_date, customer_name, product, category, price, quantity, region
 Records: 10 sample orders
 
-## Queries Included (13)
+## Queries Included (12)
 
 1. Total Revenue
 2. Revenue by Category
@@ -28,4 +28,5 @@ Records: 10 sample orders
 ## Concepts Covered
 SUM, COUNT, AVG, GROUP BY, ORDER BY, WHERE, HAVING, LIMIT, CASE WHEN, RANK() OVER(), Date Functions
 
-Author: Aspiring MIS Executive / Data Analyst
+## How to Run
+Open DB Browser for SQLite or any SQL editor and execute the sales_project.sql file.
