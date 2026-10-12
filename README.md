@@ -1,15 +1,34 @@
-Sales Analysis - SQL Project
+# E-Commerce MIS Report - SQL Project
 
-I created a sales table with 6 orders and wrote 7 SQL queries to find:
+**Tools:** SQL
+
+## Overview
+This project analyzes e-commerce sales data to answer key business questions related to revenue, customer behavior and product performance.
+
+## Dataset
+Table Name: sales
+Columns: order_id, order_date, customer_name, product, category, price, quantity, region
+Records: 10 sample orders
+
+## Queries Included (13)
+
 1. Total Revenue
-2. Revenue by Category  
-3. Top Customer
+2. Revenue by Category
+3. Top Customer by Total Spend
 4. Sales by Region
-5. Best Selling Product
-6. Customers spent > 40k
-7. Monthly Sales Trend
+5. Monthly Sales Trend
+6. Best Selling Product
+7. High Value Customers (>50000)
+8. Customer Ranking using RANK() window function
+9. Customer Segmentation using CASE WHEN
+10. Revenue Filtered by Region
+11. Orders Per Customer
+12. Average Order Value
+13. Region with Highest Revenue
 
-Used: GROUP BY, SUM, COUNT, HAVING, ORDER BY
-Tool: MySQL Workbench
+## Concepts Covered
+SUM, COUNT, AVG, GROUP BY, ORDER BY, WHERE, HAVING, LIMIT, CASE WHEN, RANK() OVER(), Date Functions
 
-Result: Total revenue 1.87L, Electronics is top category, South region has most orders.
+Open DB Browser for SQLite or any SQL editor and execute the sales_project.sql file.
+
+Author: Aspiring MIS Executive / Data Analyst
