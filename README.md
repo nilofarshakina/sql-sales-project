@@ -1,5 +1,5 @@
 # E-Commerce MIS Report - SQL Project
-**Tools:**  SQL
+**Tools:** SQL
 ## Overview
 This project analyzes e-commerce sales data to answer key business questions related to revenue, customer behavior and product performance.
 ## Dataset
@@ -19,8 +19,6 @@ Records: 10 sample orders
 10. Orders Per Customer
 11. Average Order Value
 12. Region with Highest Revenue
-## Concepts Covered
-SUM, COUNT, AVG, GROUP BY, ORDER BY, WHERE, HAVING, LIMIT, CASE WHEN, RANK() OVER(), Date Functions
 
-SUM,OUP BY, ORDER BY, WHERE, HAVING, LIMIT, CASE WHEN, RANK() OVER(), Date Functions
+## Concepts Covered
 SUM, COUNT, AVG, GROUP BY, ORDER BY, WHERE, HAVING, LIMIT, CASE WHEN, RANK() OVER(), Date Functions
